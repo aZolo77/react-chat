@@ -1,0 +1,85 @@
+{
+  "chats": [
+    {
+      "title": "Harvey Moss"
+    },
+    {
+      "title": "Marjorie Atnip"
+    },
+    {
+      "title": "Alma Greenfeild"
+    },
+    {
+      "title": "Heather Richardson"
+    },
+    {
+      "title": "Jim Bos"
+    },
+    {
+      "title": "Henry Willson"
+    },
+    {
+      "title": "Alma Reed"
+    },
+    {
+      "title": "John Joy"
+    },
+    {
+      "title": "Barny Bons"
+    },
+    {
+      "title": "Larry Hire"
+    },
+    {
+      "title": "Philip Taylor"
+    },
+    {
+      "title": "Frank Underwood"
+    },
+    {
+      "title": "Claire Underwood"
+    }
+  ],
+  "messages": [
+    {
+      "sender": "someone",
+      "content": "Hello World!"
+    },
+    {
+      "sender": "someone",
+      "content": "Here's my very first message..."
+    },
+    {
+      "sender": "me",
+      "content": "Oh, hi there"
+    },
+    {
+      "sender": "me",
+      "content": "What's up?"
+    },
+    {
+      "sender": "someone",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribus"
+    },
+    {
+      "sender": "me",
+      "content": "Everything is up, buddy"
+    },
+    {
+      "sender": "someone",
+      "content": "Neat! Keep rocking"
+    },
+    {
+      "sender": "someone",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribus"
+    },
+    {
+      "sender": "me",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribus"
+    },
+    {
+      "sender": "someone",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribusLorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, tempore molestiae perspiciatis assumenda magnam ipsa illo accusamus, provident natus quasi enim aperiam nisi molestias nobis velit. Alias iste natus doloribus"
+    }
+  ]
+}
