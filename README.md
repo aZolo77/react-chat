@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## useful info:
 
-- [https://iamakulov.com/talks/redux-in-real-life/](redux)
-- [https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6]
+- [Redux_1](https://iamakulov.com/talks/redux-in-real-life/)
+- [Redux_2](https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6)
